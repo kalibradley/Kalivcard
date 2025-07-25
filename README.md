@@ -1,1 +1,8 @@
 # Kalivcard
+BEGIN:VCARD
+VERSION:3.0
+FN:Kali Bradley
+ORG: MOM
+TEL;TYPE=cell:+3614051532
+EMAIL:kmbradley2024@gmail.com
+END: VCARD
